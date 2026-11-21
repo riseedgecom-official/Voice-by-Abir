@@ -1,0 +1,10 @@
+{
+  "name": "Remix Voice by Abir",
+  "description": "Document-to-speech studio with personal voice profiling, natural-language AI prosody direction, Google Drive cloud storage, and offline audio playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
